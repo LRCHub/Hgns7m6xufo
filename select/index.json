@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom",
+  "base_artist": "Dan Bull",
+  "createdAt": "2025-12-10T08:06:43.898779Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom",
+      "artist": "Dan Bull",
+      "has_synced": true,
+      "path": "select/01_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Dan_Bull.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom",
+      "artist": "Dan Bull",
+      "has_synced": true,
+      "path": "select/02_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Dan_Bull.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom (Creeper Rap oo oxygen Remix)",
+      "artist": "Dan Bull",
+      "has_synced": false,
+      "path": "select/03_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_(Creeper_Rap_oo_Dan_Bull.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom",
+      "artist": "Bull, Dan",
+      "has_synced": true,
+      "path": "select/04_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Bull,_Dan.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom (Acapella)",
+      "artist": "Dan Bull",
+      "has_synced": false,
+      "path": "select/05_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_(Acapella)_Dan_Bull.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom (Instrumental)",
+      "artist": "Dan Bull",
+      "has_synced": true,
+      "path": "select/06_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_(Instrumental)_Dan_Bull.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom",
+      "artist": "Dan Bull",
+      "has_synced": true,
+      "path": "select/07_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Dan_Bull.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom (a cappella)",
+      "artist": "Dan Bull",
+      "has_synced": false,
+      "path": "select/08_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_(a_cappella)_Dan_Bull.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom (Dus David Remix)",
+      "artist": "Dan Bull",
+      "has_synced": true,
+      "path": "select/09_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_(Dus_David_Remi_Dan_Bull.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom (Dus David remix)",
+      "artist": "Bull, Dan",
+      "has_synced": false,
+      "path": "select/10_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_(Dus_David_remi_Bull,_Dan.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom (Dus David Remix)",
+      "artist": "Dan Bull",
+      "has_synced": false,
+      "path": "select/11_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_(Dus_David_Remi_Dan_Bull.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom",
+      "artist": "Dan Bull",
+      "has_synced": false,
+      "path": "select/pl_01_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Boom_Dan_Bull.txt"
+    }
+  ]
+}
